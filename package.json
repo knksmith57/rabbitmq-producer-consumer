@@ -1,0 +1,10 @@
+{
+  "name": "rabbitmq-producer-consumer",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "hard-rejection": "^2.1.0",
+    "uuid": "^3.4.0"
+  }
+}
